@@ -1,0 +1,9 @@
+{
+	"name": "arv-azureprojectfactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0c5ee750-121b-41ab-bf70-0464bcdc8043",
+		"tenantId": "f1406649-7121-4faa-9c4b-d40c2c3063d8"
+	}
+}
